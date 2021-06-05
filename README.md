@@ -169,3 +169,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-id="" tvg-name="HALLMARK" tvg-logo="" group-title="",HALLMARK
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561
 
+#EXTINF:-72 tvg-logo="https://i.postimg.cc/sf5LjSCR/mitv.png" group-title="CINE Y SERIES", MI TV CINE
+http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
+
+#EXTINF:-72 tvg-logo="https://i.postimg.cc/SRJQFrjC/CINE-LIFE.png" group-title="CINE Y SERIES", MI CINE LIFE
+https://magselect-stirr.amagi.tv/playlist720p.m3u8
+
