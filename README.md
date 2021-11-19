@@ -32,7 +32,7 @@ http://54.39.49.162:8081/CBSTEXAS/USA%7CCBSTEXAS/playlist.m3u8
 http://54.39.49.162:8081/COMEDYCENTRAL/USA%7CCOMEDYCENTRAL/playlist.m3u8
 
 #EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602424157576.jpg", A y E
-http://54.39.49.162:8081/AYE/USA%7CAYE/playlist.m3u8
+http://54.39.49.162:8081/AYE/USA%7CAYE/playlist.m3u8    
 #EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1607297752577.png", CINEMAX
 http://54.39.49.162:8081/CINEMAX/USA%7CCINEMAX/playlist.m3u8
 #EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1607318989324.png", FX
