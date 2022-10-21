@@ -1,3 +1,6 @@
+#EXTINF:0 tvg-id="ext" group-title="Amerika_*Latino MIX1",🇧🇷My time movie networkᴴᴰ
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+
 #EXTINF:-1 tvg-id="173498" tvg-name="157 Cinevault 70s" tvg-logo="https://od.lk/s/MF8yMzQ5NTgwODdf/Cinevault-70s_NewV2.png" group-title="Películas y Series", 157 Cinevault 70s
 http://gsn-cinevault-70s-1-us.vizio.wurl.tv/playlist.m3u8?l1br3&PlaylistM3UCL
 #EXTINF:-1 tvg-id="173500" tvg-name="CineLife" tvg-logo="" group-title="Sin Categoria", CineLife
@@ -8,7 +11,7 @@ https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8?Playl
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="CULTURA", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f5132e262fe160040f26c05" tvg-id="5e20b730f2f8d5003d739db7-5f5132e262fe160040f26c05" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sony_canal_comedias_logo_dark.png" group-title="USA",Sony Canal Comedias
 https://f06ba9efc5bb4fc28ca33d4aa03e6dc0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalComedias-1/playlist.m3u8?ads.wurl_channel=693&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=L5nSDEMpYfzaGH16TF7X&ads.plex_id=5f5132e262fe160040f26c05&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
@@ -44,7 +47,7 @@ https://9215cc5c363c4ed297905b3ca9195080.mediatailor.us-east-1.amazonaws.com/v1/
 https://4bcfcc1294004089a615518bf70294e5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_WeatherSpy/playlist.m3u8?ads.wurl_channel=387&ads.wurl_name=WeatherSpy&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=L5nSDEMpYfzaGH16TF7X&ads.plex_id=5f170d66b898490041b493ad&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76d" tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/glewedtv_3.png" group-title="USA",Glewed TV
 https://e54c4fcc08f14de7bc1094ca25cb9d29.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GlewedTV/playlist.m3u8?ads.wurl_channel=495&ads.wurl_name=GlewedTV&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=L5nSDEMpYfzaGH16TF7X&ads.plex_id=5eea605474085f0040ddc76d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
