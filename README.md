@@ -1,3 +1,45 @@
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ca03558ddf31e54c4aba5eb9b57bb8e9.png" group-title="CANAIS: HD",ANIMAL PLANET HD
+http://51.222.87.103:8880/287994016241/287994016241/16693
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/531a36f4089a5f65b28bedb90dc00117.png" group-title="CANAIS: HD",COMEDY CENTRAL HD+
+http://51.222.87.103:8880/287994016241/287994016241/16704
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS: HD",CINEMAX HD
+http://51.222.87.103:8880/287994016241/287994016241/16702
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6860c35d5f46884944f224c1b0370ad2.png" group-title="CANAIS: HD",Discovery Science HD+
+http://51.222.87.103:8880/287994016241/287994016241/16708
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="CANAIS: HD",Discovery World HD+
+http://51.222.87.103:8880/287994016241/287994016241/16712
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigao Discovery HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/74dd868583b6f3eec92afef9e90545f4.png" group-title="CANAIS: HD",ID Investigao Discovery HD+
+http://51.222.87.103:8880/287994016241/287994016241/16736
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b9f0809d0a94506609f85aa235fe96d1.png" group-title="CANAIS: HBO",HBO FAMILY HD
+http://51.222.87.103:8880/287994016241/287994016241/31462
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="CANAIS: HD",TNT HD+
+http://51.222.87.103:8880/287994016241/287994016241/16760
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ed542b4a969f744da2e53a4199d58739.png" group-title="CANAIS: HD",Discovery Turbo HD+
+http://51.222.87.103:8880/287994016241/287994016241/16711
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sies HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="CANAIS: HD",TNT Sies HD+
+http://51.222.87.103:8880/287994016241/287994016241/16761
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/470b190de1ef11c136ccfacdec1b6017.png" group-title="CANAIS: HD",AXN HD+
+http://51.222.87.103:8880/287994016241/287994016241/16695
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/10a8c26b1a68f70a0dc5d4bead2581b9.png" group-title="CANAIS: HBO",HBO 2 HD
+http://51.222.87.103:8880/287994016241/287994016241/31460
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO 1 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/02533372af53048a55cf973c53c4ce87.png" group-title="CANAIS: HBO",HBO 1 HD
+http://51.222.87.103:8880/287994016241/287994016241/31465
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a70d332d9b49953b6a48827ecd9a254.png" group-title="CANAIS: HD",Telecine Fun HD+
+http://51.222.87.103:8880/287994016241/287994016241/16756
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS: TELECINE",TELECINE ACTION HD
+http://51.222.87.103:8880/287994016241/287994016241/31583
+#EXTINF:-1 tvg-id="Example" tvg-name="MEGAPIX FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS: FILMES E SERIES",MEGAPIX FULLHD
+http://51.222.87.103:8880/287994016241/287994016241/31278
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c83d02fd8ea1316a722a3956803e66df.png" group-title="CANAIS: HBO",HBO SIGNATURE HD
+http://51.222.87.103:8880/287994016241/287994016241/31473
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS: TELECINE",TELECINE TOUCH FHD
+http://51.222.87.103:8880/287994016241/287994016241/31593
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS: HD",SBT SP HD+
+http://51.222.87.103:8880/287994016241/287994016241/16749
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0f50ea97d17d93715352ee21bdad2a58.png" group-title="CANAIS: HD",Globo SP HD+
+http://51.222.87.103:8880/287994016241/287994016241/16730
+
+
 #EXTINF:0 tvg-id="ext" group-title="Amerika_*Latino MIX1",🇧🇷My time movie networkᴴᴰ
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
